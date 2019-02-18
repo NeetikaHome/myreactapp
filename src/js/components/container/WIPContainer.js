@@ -15,7 +15,7 @@ class WIPContainer extends Component {
 		return (
 			<div id='wip-container'>
 				<WIPPlaceholder
-					src={girl}
+					src="src/assests/images/Enchanted_Girl_7927.svg"
 					text=' I will be here soon . Thanks for visiting.'
 				/>
 			</div>

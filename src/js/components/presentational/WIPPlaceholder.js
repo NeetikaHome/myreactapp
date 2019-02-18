@@ -4,7 +4,7 @@ import style from '../../../App.css'
 
  const WIPPlaceholder = ({src, text}) => (
 	 <header className={style.appHeader}>
-		 <img src={src} className={style.appLogo} alt="logo" />
+		 <img src={src} className={style.appLogo}/>
 		 <p>
 			 {text}
 		 </p>
