@@ -1,5 +1,5 @@
 export const initialState = {
-	data: null
+	data: ''
 };
 
 const reducer = (state, action) => {
